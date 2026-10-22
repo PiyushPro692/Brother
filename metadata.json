@@ -1,0 +1,6 @@
+{
+  "name": "Click Assistant AI",
+  "description": "Smart native Android auto clicker, macro automation & app switcher with AI interruption detection and recovery",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

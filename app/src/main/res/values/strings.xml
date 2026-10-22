@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Click Assistant AI</string>
+    <string name="accessibility_service_description">Click Assistant AI uses accessibility actions to smoothly back out of completed apps and launch next scheduled applications automatically.</string>
+    <string name="notification_channel_name">Automation Service</string>
+    <string name="notification_channel_desc">Active automation and timer countdown notifications</string>
+    <string name="notification_running_title">Click Assistant AI Active</string>
+    <string name="notification_action_stop">Emergency Stop</string>
+    <string name="notification_completed_title">Work completed</string>
+    <string name="notification_completed_text">All automated tasks and app switches have finished successfully.</string>
+</resources>
